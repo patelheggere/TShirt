@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "512139415077",
+    "firebase_url": "https://distribution-420b3.firebaseio.com",
+    "project_id": "distribution-420b3",
+    "storage_bucket": "distribution-420b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512139415077:android:587ed8333c738d64",
+        "android_client_info": {
+          "package_name": "tshirt.rajeev.com.tshirt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512139415077-dpqri6fkdmgvmjfcgbila3i66molu9g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVK_8rV8R793oZCMsaBBlppuNO9U9qEFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

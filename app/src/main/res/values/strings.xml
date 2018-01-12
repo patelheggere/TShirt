@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Beneficiary List</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign up</string>
+    <string name="hint_gender">Gender</string>
+    <string name="hint_pwd">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="welcome">ನಿಮ್ಮೊoದಿಗೆ</string>
+    <string name="wel1">ಬದುಕಿನ ಚಲನೆಯಲ್ಲಿ</string>
+    <string name="wel2">ಒಳ್ಳೆಯತನದೊoದಿಗೆ ಒಟ್ಟಾಗಿ ಸಾಗೊಣ.</string>
+    <string name="wel3">ಜೊತೆಯಾಗಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು.</string>
+    <string name="wel4">ಸಲಹೆ, ಪ್ರೋತ್ಸಾಹ ಹಾಗೂ ಮಾರ್ಗದರ್ಶನದ</string>
+    <string name="wel5">ನಿರೀಕ್ಷೆಯಲ್ಲಿ...</string>
+    <string name="wel6">ಸದಾ ನಿಮ್ಮೊoದಿಗೆ</string>
+    <string name="name">ಪಿ. ರಾಜೀವ್</string>
+    <string name="tex">ಬದುಕಿನ ಚಲನೆಯಲ್ಲಿ ಒಳ್ಳೆಯತನದೊoದಿಗೆ ಒಟ್ಟಾಗಿ ಸಾಗೊಣ. \nಜೊತೆಯಾಗಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು. \n\nಸಲಹೆ, ಪ್ರೋತ್ಸಾಹ ಹಾಗೂ ಮಾರ್ಗದರ್ಶನದ ನಿರೀಕ್ಷೆಯಲ್ಲಿ...</string>
+</resources>
